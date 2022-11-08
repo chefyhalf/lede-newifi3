@@ -16,5 +16,6 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
 #git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
+git clone https://github.com/bigbighill/openwrt-packages-1/tree/master/luci-theme-openwrt-2020 package/luci-theme-openwrt-2020
