@@ -9,3 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git haiibo https://github.com/haiibo/openwrt-packages
 src-git bigbighill https://github.com/bigbighill/openwrt-packages-1
+src-git themes https://github.com/openwrt/luci.git
