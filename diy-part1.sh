@@ -19,3 +19,4 @@
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
 #git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
 #git clone https://github.com/bigbighill/openwrt-packages-1/tree/master/luci-theme-openwrt-2020 package/luci-theme-openwrt-2020
+git clone https://github.com/bigbighill/openwrt-packages-1.git
